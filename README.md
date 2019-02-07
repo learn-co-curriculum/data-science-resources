@@ -16,11 +16,11 @@ Below are resources that come highly recommended from our Data Science Education
 * [OReilly](http://oreilly.com/) (ebooks, news/trends, conference listings, in tech and business)
 * [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) (weeks 4 and 5 courses particularly recommended)
 * [AWS](https://aws.amazon.com/start-ups/loft/) (in-person events in NYC, San Francisco, Tokyo, Berlin, Stockholm)
-* [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=asc_df_1537713949/?tag=hyprod-20&linkCode=df0&hvadid=312176709100&hvpos=1o2&hvnetw=g&hvrand=3383134905107389710&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008180&hvtargid=pla-312217120756&psc=1&tag=&ref=&adgrpid=60258872537&hvpone=&hvptwo=&hvadid=312176709100&hvpos=1o2&hvnetw=g&hvrand=3383134905107389710&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008180&hvtargid=pla-312217120756) (book)
 
 ### Articles
 
 * [The Essential Skills and Traits of an Expert Data Scientist](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html) 
+* [40 Questions To Test Your Skill in Python for Data Science](https://www.analyticsvidhya.com/blog/2017/05/questions-python-for-data-science/)
 * [Top 50 Python Interview Questions You Must Prepare in 2019](https://www.edureka.co/blog/interview-questions/python-interview-questions/) 
 * [109 Data Science Interview Questions and Answers for 2019](https://www.springboard.com/blog/data-science-interview-questions/) 
 * [Data Science Interview Questions](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)  
