@@ -9,6 +9,14 @@ Below are resources that come highly recommended from our Data Science Education
 * [Kaggle](https://www.kaggle.com/) (mini courses and competitions) 
 * [Regex Practice](https://regexcrossword.com/) (in the form of a crossword puzzle game)
 
+### SQL Practice
+
+* [https://github.com/learn-co-curriculum/dsc-more-practice-with-sql-queries-lab](https://github.com/learn-co-curriculum/dsc-more-practice-with-sql-queries-lab)
+* [https://github.com/learn-co-curriculum/dsc-sql-interview-questions-quiz](https://github.com/learn-co-curriculum/dsc-sql-interview-questions-quiz)
+* [https://github.com/learn-co-curriculum/dsc-sql-interview-questions-lab](https://github.com/learn-co-curriculum/dsc-sql-interview-questions-lab)
+* [https://github.com/learn-co-curriculum/dsc-database-admin-101](https://github.com/learn-co-curriculum/dsc-database-admin-101)
+* [https://github.com/learn-co-curriculum/dsc-database-admin-101-lab](https://github.com/learn-co-curriculum/dsc-database-admin-101-lab)
+
 ### Supplemental Courses/Learning
 
 * [Khan Academy - Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) (ecourse)
