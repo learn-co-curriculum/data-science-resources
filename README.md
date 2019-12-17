@@ -25,6 +25,19 @@ Below are resources that come highly recommended from our Data Science Education
 * [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) (weeks 4 and 5 courses particularly recommended)
 * [AWS](https://aws.amazon.com/start-ups/loft/) (in-person events in NYC, San Francisco, Tokyo, Berlin, Stockholm)
 
+### Twitter
+(As a Data Science studfent, you should absolutely be on Twitter; it's a great place to connect with priominent data scientists and companies in the data science space, to learn about jobs, and to keep up to date on industry trends.)
+
+Here are some recommended people to follow:
+
+* [Chris Albon](https://twitter.com/chrisalbon) (lots of great tutorials online)
+* [Vicki Boykis](https://twitter.com/vboykis) (author of the [Normcore Tech blog](https://vicki.substack.com/about?utm_source=menu-dropdown))
+* [Cassie Kozyrkov](https://twitter.com/quaesita) (Google)
+* [@NateSilver58](https://twitter.com/natesilver538?lang=en) (no intro needed) 
+* [@FiveThirtyEight](https://twitter.com/FiveThirtyEight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) (data-driven     news by Nate Silver)
+* [@drob](https://twitter.com/drob?lang=en) (a pretty big R guy with great [blogposts](http://varianceexplained.org/))
+* [@SethS_D](https://twitter.com/seths_d?lang=en) (author of the data science book "Everybody Lies")  
+
 ### Articles
 
 * [The Essential Skills and Traits of an Expert Data Scientist](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html) 
