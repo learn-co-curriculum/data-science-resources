@@ -26,7 +26,7 @@ Below are resources that come highly recommended from our Data Science Education
 * [AWS](https://aws.amazon.com/start-ups/loft/) (in-person events in NYC, San Francisco, Tokyo, Berlin, Stockholm)
 
 ### Twitter
-(As a Data Science studfent, you should absolutely be on Twitter; it's a great place to connect with priominent data scientists and companies in the data science space, to learn about jobs, and to keep up to date on industry trends.)
+(As a data science student, you should absolutely be on Twitter; it's a great place to connect with prominent data scientists and companies in the data science space, to learn about jobs, and to keep up to date on industry trends.)
 
 Here are some recommended people to follow:
 
