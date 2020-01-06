@@ -39,6 +39,7 @@ Here are some recommended people to follow:
 * [@FiveThirtyEight](https://twitter.com/FiveThirtyEight?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) (data-driven     news by Nate Silver)
 * [@drob](https://twitter.com/drob?lang=en) (a pretty big R guy with great [blogposts](http://varianceexplained.org/))
 * [@SethS_D](https://twitter.com/seths_d?lang=en) (author of the data science book "Everybody Lies")  
+* [@BecomingDataSci - Data Science Renee](https://twitter.com/BecomingDataSci)
 
 ### Articles
 
@@ -49,4 +50,6 @@ Here are some recommended people to follow:
 * [109 Data Science Interview Questions and Answers for 2019](https://www.springboard.com/blog/data-science-interview-questions/) 
 * [Data Science Interview Questions](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)  
 * [Python Interview Questions](https://www.quora.com/What-are-good-Python-interview-questions)  
+* [Cracking the Data Science Interview](https://medium.com/cracking-the-data-science-interview/16-useful-advices-for-aspiring-data-scientists-804ce5611939)
+* [The 4 Fastest Ways NOT to Get Hired as a Data Scientist](https://www.kdnuggets.com/2019/12/4-ways-not-hired-data-scientist.html?utm_source=Iterable&utm_medium=email&utm_campaign=dataquest_newsletter_64)
 * [How Important Are Soft Skills in Analytics?](https://www.scmagazine.com/home/advertise/how-important-are-soft-skills-in-analytics/)  
