@@ -16,6 +16,8 @@ Below are resources that come highly recommended from our Data Science Education
 * [https://github.com/learn-co-curriculum/dsc-sql-interview-questions-lab](https://github.com/learn-co-curriculum/dsc-sql-interview-questions-lab)
 * [https://github.com/learn-co-curriculum/dsc-database-admin-101](https://github.com/learn-co-curriculum/dsc-database-admin-101)
 * [https://github.com/learn-co-curriculum/dsc-database-admin-101-lab](https://github.com/learn-co-curriculum/dsc-database-admin-101-lab)
+* [https://mode.com/sql-tutorial/sql-aggregate-functions/](https://mode.com/sql-tutorial/sql-aggregate-functions/)
+* [https://pgexercises.com/](https://pgexercises.com/)
 
 ### Supplemental Courses/Learning
 
@@ -40,6 +42,7 @@ Here are some recommended people to follow:
 
 ### Articles
 
+* [Top 10 Data Science People You Should Follow  - LinkedIn / Medium](https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-4eeedc4db021)
 * [The Essential Skills and Traits of an Expert Data Scientist](https://www.cio.com/article/3263790/data-science/the-essential-skills-and-traits-of-an-expert-data-scientist.html) 
 * [40 Questions To Test Your Skill in Python for Data Science](https://www.analyticsvidhya.com/blog/2017/05/questions-python-for-data-science/)
 * [Top 50 Python Interview Questions You Must Prepare in 2019](https://www.edureka.co/blog/interview-questions/python-interview-questions/) 
