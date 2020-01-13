@@ -9,6 +9,11 @@ Below are resources that come highly recommended from our Data Science Education
 * [Kaggle](https://www.kaggle.com/) (mini courses and competitions) 
 * [Regex Practice](https://regexcrossword.com/) (in the form of a crossword puzzle game)
 
+### Python Practice
+
+* [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (book)
+* [Codewars](https://www.codewars.com/) (practice code challenges for coders at all levels)
+
 ### SQL Practice
 
 * [https://github.com/learn-co-curriculum/dsc-more-practice-with-sql-queries-lab](https://github.com/learn-co-curriculum/dsc-more-practice-with-sql-queries-lab)
