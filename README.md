@@ -8,6 +8,7 @@ Below are resources that come highly recommended from our Data Science Education
 * [Data Kind](https://www.datakind.org/) (build pro bono data science projects for social organizations/non-profits)
 * [Kaggle](https://www.kaggle.com/) (mini courses and competitions) 
 * [Regex Practice](https://regexcrossword.com/) (in the form of a crossword puzzle game)
+* [Datasets, indexed by topic](https://blog.google/products/search/discovering-millions-datasets-web/) (millions of datasets on the web, via Google)
 
 ### Python Practice
 
@@ -26,6 +27,7 @@ Below are resources that come highly recommended from our Data Science Education
 
 ### Supplemental Courses/Learning
 
+* [Coursera - Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences) (ecourse)
 * [Khan Academy - Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) (ecourse)
 * [Udemy - Data Structure and Algorithms](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/) (ecourse)
 * [OReilly](http://oreilly.com/) (ebooks, news/trends, conference listings, in tech and business)
