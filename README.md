@@ -10,6 +10,12 @@ Below are resources that come highly recommended from our Data Science Education
 * [Regex Practice](https://regexcrossword.com/) (in the form of a crossword puzzle game)
 * [Datasets, indexed by topic](https://blog.google/products/search/discovering-millions-datasets-web/) (millions of datasets on the web, via Google)
 
+### GitHub 
+
+* [How to convert a Jupyter notebook to GitHub README - 1](https://github.com/jupyter/nbconvert)
+* [How to convert a Jupyter notebook to GitHub README - 2](http://www.blog.pythonlibrary.org/2018/10/09/how-to-export-jupyter-notebooks-into-other-formats/)
+* [Guidelines for a good GitHub README](https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md)
+
 ### Python Practice
 
 * [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (book)
