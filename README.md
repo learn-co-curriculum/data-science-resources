@@ -40,10 +40,10 @@ Below are resources that come highly recommended from our Data Science Education
 * [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) (weeks 4 and 5 courses particularly recommended)
 * [AWS](https://aws.amazon.com/start-ups/loft/) (in-person events in NYC, San Francisco, Tokyo, Berlin, Stockholm)
 
-### Twitter
-(As a data science student, you should absolutely be on Twitter; it's a great place to connect with prominent data scientists and companies in the data science space, to learn about jobs, and to keep up to date on industry trends.)
+### Social Media
 
-Here are some recommended people to follow:
+# Twitter # 
+As a data science student, you should absolutely be on Twitter; it's a great place to connect with prominent data scientists and companies in the data science space, to learn about jobs, and to keep up to date on industry trends. Here are some recommended people to follow:
 
 * [Chris Albon](https://twitter.com/chrisalbon) (lots of great tutorials online)
 * [Vicki Boykis](https://twitter.com/vboykis) (author of the [Normcore Tech blog](https://vicki.substack.com/about?utm_source=menu-dropdown))
@@ -53,6 +53,15 @@ Here are some recommended people to follow:
 * [@drob](https://twitter.com/drob?lang=en) (a pretty big R guy with great [blogposts](http://varianceexplained.org/))
 * [@SethS_D](https://twitter.com/seths_d?lang=en) (author of the data science book "Everybody Lies")  
 * [@BecomingDataSci - Data Science Renee](https://twitter.com/BecomingDataSci)
+
+# Slack #
+* [15 Data Science Slack communities to join](https://towardsdatascience.com/15-data-science-slack-communities-to-join-8fac301bd6ce)
+
+# Online Communities/Networking, News, Jobs, etc.
+
+* [KDnuggets](https://www.kdnuggets.com/jobs/index.html) (Newsletter on AI, Data Science, and Machine Learning) 
+* [Data Science Weekly](https://www.datascienceweekly.org/) (This newsletter sends out job posts weekly)
+* [Matt Turck](https://mattturck.com/?subscribe=success#blog_subscription-4) (Matt runs a DS VC hedge fund. His blog is informative and he sets the standard for data science market segmentation; clicking link automatically subscribes you)
 
 ### Articles
 
