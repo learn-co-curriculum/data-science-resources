@@ -36,7 +36,7 @@ Below are resources that come highly recommended from our Data Science Education
 * [Coursera - Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences) (ecourse)
 * [Khan Academy - Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) (ecourse)
 * [Udemy - Data Structure and Algorithms](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/) (ecourse)
-* [OReilly](http://oreilly.com/) (ebooks, news/trends, conference listings, in tech and business)
+* [NLP and Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (free Stanford video lectures that dive into high level NLP topics)
 * [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) (weeks 4 and 5 courses particularly recommended)
 * [AWS](https://aws.amazon.com/start-ups/loft/) (in-person events in NYC, San Francisco, Tokyo, Berlin, Stockholm)
 
@@ -61,6 +61,7 @@ As a data science student, you should absolutely be on Twitter; it's a great pla
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html) (Newsletter on AI, Data Science, and Machine Learning) 
 * [Data Science Weekly](https://www.datascienceweekly.org/) (This newsletter sends out job posts weekly)
 * [Matt Turck](https://mattturck.com/?subscribe=success#blog_subscription-4) (Matt runs a DS VC hedge fund. His blog is informative and he sets the standard for data science market segmentation; clicking link automatically subscribes you)
+* [OReilly](http://oreilly.com/) (ebooks, news/trends, conference listings, in tech and business)
 
 ### Articles
 
