@@ -2,6 +2,12 @@
 
 Below are resources that come highly recommended from our Data Science Education team. We encourage you to review and utilize them to continue to grow your data science skills and knowledge, fine tune your technical interviewing skills, and become a no brainer hire! 
 
+### Big Data 
+
+* [How to: Running PySpark on Google Colab](https://www.youtube.com/watch?v=4qhKCSpS7Sc&feature=youtu.be) (video by Flatiron instructor Rafael Carrasco)
+* [AWS: Getting Started on Big Data](https://aws.amazon.com/big-data/getting-started/) (white papers, labs, guides, and more)
+* [Google Big Query](https://cloud.google.com/bigquery) 
+
 ### Code Challenges/Practice
 
 * [Code for America](https://brigade.codeforamerica.org/) (volunteer opportunities; build tools that help with local civic issues)
