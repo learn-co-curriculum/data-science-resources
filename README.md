@@ -7,6 +7,7 @@ Below are resources that come highly recommended from our Data Science Education
 * [How to: Running PySpark on Google Colab](https://www.youtube.com/watch?v=4qhKCSpS7Sc&feature=youtu.be) (video by Flatiron instructor Rafael Carrasco)
 * [AWS: Getting Started on Big Data](https://aws.amazon.com/big-data/getting-started/) (white papers, labs, guides, and more)
 * [Google Big Query](https://cloud.google.com/bigquery) 
+* [Google Public Data](https://www.google.com/publicdata/directory)
 
 ### Code Challenges/Practice
 
