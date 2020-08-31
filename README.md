@@ -32,6 +32,7 @@ Below are resources that come highly recommended from our Data Science Education
 
 * [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (book)
 * [Codewars](https://www.codewars.com/) (practice code challenges for coders at all levels)
+* [Sentdex] (https://www.youtube.com/user/sentdex)
 
 ### SQL Practice
 
@@ -52,12 +53,15 @@ Below are resources that come highly recommended from our Data Science Education
 * [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) (weeks 4 and 5 courses particularly recommended)
 * [AWS](https://aws.amazon.com/start-ups/loft/) (in-person events in NYC, San Francisco, Tokyo, Berlin, Stockholm)
 
-### Social Media
+### Social Media - Who & What to Follow to Stay Relevant in the Field
 
 **Twitter**
 As a data science student, you should absolutely be on Twitter; it's a great place to connect with prominent data scientists and companies in the data science space, to learn about jobs, and to keep up to date on industry trends. Here are some recommended people to follow:
 
 * [Chris Albon](https://twitter.com/chrisalbon) (lots of great tutorials online)
+* [Yann LeCun] (https://twitter.com/ylecun?lang=en) (Turing Award Winner and Facebook Chief AI Scientist. Follow him on [LinkedIn](https://www.linkedin.com/in/yann-lecun-0b999/) as well)
+* [Jeremy Howard] (https://twitter.com/jeremyphoward?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) (distinguished research scientist)
+* [Rachel Thomas](https://twitter.com/math_rachel?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) (Director of USF Center for Applied Data Ethics)
 * [Vicki Boykis](https://twitter.com/vboykis) (author of the [Normcore Tech blog](https://vicki.substack.com/about?utm_source=menu-dropdown))
 * [Cassie Kozyrkov](https://twitter.com/quaesita) (Google)
 * [@NateSilver58](https://twitter.com/natesilver538?lang=en) (no intro needed) 
@@ -66,10 +70,20 @@ As a data science student, you should absolutely be on Twitter; it's a great pla
 * [@SethS_D](https://twitter.com/seths_d?lang=en) (author of the data science book "Everybody Lies")  
 * [@BecomingDataSci - Data Science Renee](https://twitter.com/BecomingDataSci)
 
+**Reddit**
+* [Machine Learning] (https://www.reddit.com/r/MachineLearning/)
+* [Flask (for building portfolios)] (https://www.reddit.com/r/flask/)
+
 **Slack**
 * [15 Data Science Slack communities to join](https://towardsdatascience.com/15-data-science-slack-communities-to-join-8fac301bd6ce)
 
+**Confererences**
+* [PyData] (https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
+* [ICML - International Conference on Machine Learning)] (https://icml.cc/virtual/2020/workshops)
+
 **Online Networking, News, Jobs, etc.**
+* [Lex Fridman Podcast] (https://lexfridman.com/podcast/)
+* [Towards Data Science] (https://towardsdatascience.com/) (A Medium publication sharing concepts, ideas, and codes)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html) (Newsletter on AI, Data Science, and Machine Learning) 
 * [Data Science Weekly](https://www.datascienceweekly.org/) (This newsletter sends out job posts weekly)
 * [Matt Turck](https://mattturck.com/?subscribe=success#blog_subscription-4) (Matt runs a DS VC hedge fund. His blog is informative and he sets the standard for data science market segmentation; clicking link automatically subscribes you)
