@@ -32,7 +32,7 @@ Below are resources that come highly recommended from our Data Science Education
 
 * [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) (book)
 * [Codewars](https://www.codewars.com/) (practice code challenges for coders at all levels)
-* [Sentdex] (https://www.youtube.com/user/sentdex)
+* [Sentdex] (https://www.youtube.com/user/sentdex) (for Python Development)
 
 ### SQL Practice
 
@@ -79,11 +79,11 @@ As a data science student, you should absolutely be on Twitter; it's a great pla
 
 **Confererences**
 * [PyData] (https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
-* [ICML - International Conference on Machine Learning)] (https://icml.cc/virtual/2020/workshops)
+* [ICML] (https://icml.cc/virtual/2020/workshops) 
 
 **Online Networking, News, Jobs, etc.**
-* [Lex Fridman Podcast] (https://lexfridman.com/podcast/)
-* [Towards Data Science] (https://towardsdatascience.com/) (A Medium publication sharing concepts, ideas, and codes)
+* [Lex Fridman Podcast] (https://lexfridman.com/podcast/) (Research scientist at MIT)
+* [Towards Data Science] (https://towardsdatascience.com/) (Medium publication sharing concepts, ideas, and codes)
 * [KDnuggets](https://www.kdnuggets.com/jobs/index.html) (Newsletter on AI, Data Science, and Machine Learning) 
 * [Data Science Weekly](https://www.datascienceweekly.org/) (This newsletter sends out job posts weekly)
 * [Matt Turck](https://mattturck.com/?subscribe=success#blog_subscription-4) (Matt runs a DS VC hedge fund. His blog is informative and he sets the standard for data science market segmentation; clicking link automatically subscribes you)
